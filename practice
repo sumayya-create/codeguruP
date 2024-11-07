@@ -1,0 +1,5 @@
+Import pandas
+import numpy
+abc=pandas.csv("file path")
+
+print(abc)
